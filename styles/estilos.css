@@ -1,0 +1,106 @@
+*  
+{
+box-sizing: border-box;    
+}
+
+body
+{
+margin: 0;
+padding: 0;
+font-family: sans-serif;
+background-color: #28ABCA;
+}
+
+#particles-js
+{
+width: 100%;
+height: 100%;
+margin: auto;
+margin-top:-12.5%; 
+position: fixed;
+}
+
+.registro
+{
+width: 90%;
+max-width: 350px;
+margin: auto;
+margin-top: 11%;
+position: relative;
+border-radius: 10px;
+background-color: rgba(0,0,0,.3);
+}
+
+.titulo
+{
+color: #fff;
+padding: 8px;
+text-align: center;
+font-weight:bold;
+font-size: 45px;
+border-radius: 10px;
+border-bottom: 4px solid #fff;
+background-color: rgba(0,0,0,.2);
+}
+
+.contenedor
+{
+padding: 8px 30px;
+display: flex;
+flex-wrap: wrap; /*Hace que los elementos se ajusten uno bajo el otro según el espacio del contendor*/
+}
+
+.login
+{
+width: 90%;
+max-width: 300px;
+margin: auto;
+margin-top: 12.5%;
+position: relative;
+border-radius: 10px; 
+background-color: rgba(0,0,0,.3);   
+}
+    
+input
+{
+border: 0;
+box-shadow: 0;
+outline: 0;
+padding: 12px;
+font-size: 16px;
+margin-bottom: 20px;
+border-radius: 50px;
+}
+
+.input-100
+{
+width: 100%;
+}
+
+.lista
+{
+width: 100%;
+border: 0;
+box-shadow: 0;
+outline: 0;
+padding: 12px;
+font-size: 16px;
+margin-bottom: 20px;
+border-radius: 50px;
+}
+
+.enviar
+{
+margin: auto;
+color: #fff;
+background: #28ABCA;
+padding: 10px 60px;
+margin-bottom: 15px;
+border-radius: 50px;
+cursor: pointer;
+}
+
+.enviar:active
+{
+transform: scale(1.1);
+}
