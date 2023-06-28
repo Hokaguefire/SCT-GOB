@@ -1,9 +1,18 @@
-<mxfile host="app.diagrams.net" modified="2023-06-28T13:11:59.432Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" version="21.5.1" etag="7dkHSCEHksr5n5xOX3Gj" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-28T13:19:36.302Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="2T8twwevYvL1T1sqTyfq" version="21.5.1" type="github">
   <diagram name="Página-1" id="uCcmAeFX6fvmgWwOrwSr">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="549" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="o2QIdDCcAZLeNwoakYLS-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=-180;" vertex="1" parent="1">
+          <mxGeometry x="99.99999999999997" y="40" width="50" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="o2QIdDCcAZLeNwoakYLS-2" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="490" y="300" width="100" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="o2QIdDCcAZLeNwoakYLS-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="620" y="300" width="100" height="120" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
